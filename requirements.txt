@@ -2,11 +2,6 @@ numpy
 pandas
 tensorflow
 matplotlib
-pyplot
-sklearn
-accuracy_score
-classification_report
+scikit-learn
 seaborn
-PIL
-Image
-random
+Pillow
